@@ -1,1 +1,1 @@
-header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&section=header&reversal=false&text=ujilee&textBg=false&fontColor=222222&fontSize=70&fontAlign=66&fontAlignY=48&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=54&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&section=header&reversal=false&text=ujilee&textBg=false&fontColor=222222&fontSize=70&fontAlign=66&fontAlignY=48&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=54&descAlignY=60)
